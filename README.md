@@ -17,7 +17,9 @@ An IoT-based weather monitoring system designed to collect, transmit, store, and
 ## System Architecture
 
 The system consists of sensor nodes connected to a NodeMCU ESP8266, which processes and transmits data over a Wi‑Fi network to a web interface for visualization and monitoring.
-![weather station circuit diagram_page-0001](https://github.com/user-attachments/assets/c7086644-2be8-4fbb-aba5-55bbb4b395ac)
+
+
+<img width="1132" height="757" alt="weather station circuit diagram_page-0001" src="https://github.com/user-attachments/assets/e10972ba-fb4e-4856-857c-c6fc064afe5f" />
 
 ## Hardware Components
 
