@@ -5,7 +5,6 @@
 An IoT-based weather monitoring system designed to collect, transmit, store, and display real-time environmental data. The system measures temperature, humidity, and rainfall using sensors connected to an ESP8266 (NodeMCU) microcontroller and makes the data accessible through a web interface and provides real-time alerts through Whatsapp using the callmebot library. The project focuses on providing a cost-effective and scalable alternative to traditional weather stations, suitable for both urban and rural environments.
 
 
-![20250222_130809](https://github.com/user-attachments/assets/c53a132e-9469-4e12-bd71-99ae21965048)
 
 ## Features
 
@@ -63,7 +62,7 @@ The system consists of sensor nodes connected to a NodeMCU ESP8266, which proces
 * Rain Intensity Limit Alert: Above 55%
 * Rain Falling Alert: Above 60%
 
-  <img width="677" height="933" alt="iot weather result" src="https://github.com/user-attachments/assets/012f209b-62b7-4ab0-b361-78b67ff7423e" />
+<img width="677" height="933" alt="iot weather result" src="https://github.com/user-attachments/assets/5654213b-ce12-44e7-956f-5b2f8ab16be1" />
 
 
 ## Firmware Upgrade
@@ -73,8 +72,8 @@ The system consists of sensor nodes connected to a NodeMCU ESP8266, which proces
 3. Open a web browser and navigate to:
 
 
+<img width="1295" height="141" alt="ip address for weather station" src="https://github.com/user-attachments/assets/9f9ac376-4363-4cd3-8774-979ca42e78c2" />
 
-<img width="1295" height="141" alt="ip address for weather station" src="https://github.com/user-attachments/assets/8ee86a45-c5b4-4170-bb9d-9835b56b1c22" />
 
    ```
    http://192.168.137.166/update
