@@ -1,0 +1,17 @@
+# Sensitive files - DO NOT COMMIT
+config.h
+secrets.h
+.env
+
+# Node modules (if any)
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+
+# Build files
+*.o
+*.bin
+*.elf
+build/

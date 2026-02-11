@@ -1,0 +1,11 @@
+// config.h.example (commit this as a template)
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define WIFI_SSID "your_wifi_ssid_here"
+#define WIFI_PASSWORD "your_wifi_password_here"
+#define WHATSAPP_PHONE "your_phone_number_here"
+#define WHATSAPP_API_KEY "your_whatsapp_api_key_here"
+#define THINGSPEAK_API_KEY "your_thingspeak_api_key_here"
+
+#endif
