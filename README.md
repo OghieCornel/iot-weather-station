@@ -29,8 +29,9 @@ The system consists of sensor nodes connected to a NodeMCU ESP8266, which proces
 * LM2596 DC‑DC Buck Converter Module
 * Step-down Transformer (220V AC to low-voltage AC)
 * Perf-board and connecting wires
-![20250222_115946](https://github.com/user-attachments/assets/d8db74f4-8993-442d-baa6-0ea739f22c8b)
 
+
+<img width="1008" height="756" alt="iot weather compressed-2" src="https://github.com/user-attachments/assets/75aaf41d-9c0c-41d8-8e54-f171ff93b9e5" />
 
 
 ## Software Components
