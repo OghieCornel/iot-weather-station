@@ -64,7 +64,7 @@ The system consists of sensor nodes connected to a NodeMCU ESP8266, which proces
 * Rain Intensity Limit Alert: Above 55%
 * Rain Falling Alert: Above 60%
 
-<img width="677" height="933" alt="iot weather result" src="https://github.com/user-attachments/assets/5654213b-ce12-44e7-956f-5b2f8ab16be1" />
+<img width="338" height="467" alt="iot weather result" src="https://github.com/user-attachments/assets/5654213b-ce12-44e7-956f-5b2f8ab16be1" />
 
 
 ## Firmware Upgrade
