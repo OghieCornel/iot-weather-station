@@ -31,7 +31,7 @@ The system consists of sensor nodes connected to a NodeMCU ESP8266, which proces
 * Perf-board and connecting wires
 
 
-<img width="1008" height="756" alt="iot weather compressed-2" src="https://github.com/user-attachments/assets/75aaf41d-9c0c-41d8-8e54-f171ff93b9e5" />
+<img width="504" height="378" alt="iot weather compressed-2" src="https://github.com/user-attachments/assets/75aaf41d-9c0c-41d8-8e54-f171ff93b9e5" />
 
 
 ## Software Components
